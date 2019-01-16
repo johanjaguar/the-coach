@@ -1,0 +1,26 @@
+{
+  "name": "the-coach",
+  "version": "1.0.0",
+  "description": "An App for the Management of Sports Team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johanjaguar/the-coach.git"
+  },
+  "keywords": [
+    "sports",
+    "management",
+    "drills",
+    "check",
+    "assistance"
+  ],
+  "author": "Johan Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johanjaguar/the-coach/issues"
+  },
+  "homepage": "https://github.com/johanjaguar/the-coach#readme"
+}
